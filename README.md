@@ -1,3 +1,3 @@
-# Wzorce-Projektowe
+# Wzorce Projektowe
 
 Przykłady zastosowań wzorców projektowych.
